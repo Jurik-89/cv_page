@@ -1,0 +1,77 @@
+body {
+    background-color: #d9f1f3;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.header {
+    text-align: center;
+}
+
+.avatar {
+    width: 300px;
+    height: 300px;
+}
+
+.header_title {
+    font-size: 28px;
+
+}
+
+.header_subtitle {
+
+    color: rgb(42, 42, 216);
+
+}
+
+main {
+    border: 1px solid darkslategray;
+    text-align: center;
+
+
+}
+.skills  ol {
+    list-style: none;
+}
+.separator {
+    width: 50%;
+    height: 3px;
+    border-color:rgb(52, 52, 107);
+}
+.video iframe {
+    width: 800px;
+    height: 490px;
+    border: none;
+}
+.hobby ul {
+    list-style: none;
+}
+.ed_table {
+    border-collapse: collapse;
+    width: 100%;
+}
+.ed_table th,
+.ed_table td {
+    border: 1px solid black;
+    padding: 10px;
+}
+.quote {
+    font-size: 25px;
+}
+.form {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.form_control {
+    width: 100%;
+
+    
+}
+.control-text{
+
+    width: 70%;
+}
+.form_submit {
+    display: block;
+    margin: 0 auto;
+}
